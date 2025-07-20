@@ -1,4 +1,4 @@
-[![Sea GIF](https://www.jeanpantaleon.fr/github_image.gif?cachebuster=20250720)](https://giphy.com/gifs/turquoise-purple-clouds-water-aesthetic-798oH0WDEQnicM4857)
+[![Sea GIF](https://www.jeanpantaleon.fr/github_image.gif?cachebuster=202507201841)](https://giphy.com/gifs/turquoise-purple-clouds-water-aesthetic-798oH0WDEQnicM4857)
 
 ## Jean Pantaleon
 
