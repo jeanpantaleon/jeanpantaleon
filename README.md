@@ -1,5 +1,9 @@
 [![Sea GIF](https://www.jeanpantaleon.fr/github_image.gif?cachebuster=202507201933)](https://giphy.com/gifs/turquoise-purple-clouds-water-aesthetic-798oH0WDEQnicM4857)
 
+<picture>
+  <source srcset="https://www.jeanpantaleon.fr/github_image.gif?cachebuster=202509261353" type="image/gif">
+  <img src="https://www.jeanpantaleon.fr/github_image.gif?cachebuster=202509261353">
+</picture>
 
 ## 
 
